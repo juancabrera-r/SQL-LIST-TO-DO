@@ -10,7 +10,12 @@ It is based on the Eisenhower method, which divides tasks into four quadrants ac
 ## EER Diagram
 ![EER schema](https://github.com/juancabrera-r/SQL-LIST-TO-DO/blob/main/schemaEER.png)
 
-
 ## Technology Stack
 - SQL Workbench
 - HeidiSQL
+
+## Tables
+
+![listmain](https://github.com/juancabrera-r/SQL-LIST-TO-DO/blob/main/listmain.png)
+
+![level](https://github.com/juancabrera-r/SQL-LIST-TO-DO/blob/main/level.png)
