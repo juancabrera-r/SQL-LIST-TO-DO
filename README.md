@@ -3,9 +3,6 @@ List To-Do Eisenhower
 
 <img src="https://jpkantor.com/wp-content/uploads/2015/10/Matrix.png" width="250" height="250">
 
-## Level
-Apprentice
-
 ## Technology Stack
 - SQL Workbench
 - HeidiSQL
